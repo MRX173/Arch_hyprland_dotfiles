@@ -10,7 +10,6 @@ return {
 			-- Default AI popup type (choose one: "popup", "horizontal", "vertical")
 			popup_type = "popup", -- Choose one option, cannot use "|"
 			-- An alternative way to set your API key
-			openai_api_key = "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",
 			-- ChatGPT Model
 			openai_model_id = "gpt-3.5-turbo",
 			-- Send code as well as diagnostics
